@@ -4,8 +4,7 @@
 
 # Student Details:
 
- Name: Menahem Hen Perets
- ID  : 318246014
+ Name: Hen Menahem Perets
 
 # Project details:
 
